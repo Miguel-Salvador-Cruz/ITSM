@@ -1,0 +1,16 @@
+{
+  "name": "itsm",
+  "version": "1.0.0",
+  "description": "Api para la gestión de alumnos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Salvador Cruz Rodríguez",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8"
+  }
+}
