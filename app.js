@@ -16,4 +16,4 @@ app.use('/api/usuarios', usuarios);
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
     console.log('Api RESTFul Ok, y ejecutándose...');
-})
+});
